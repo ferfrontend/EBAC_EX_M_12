@@ -12,7 +12,9 @@ $(document).ready(function(){
       telefone: {
         required: true
       }
+
     }
+
   })
 
 });
